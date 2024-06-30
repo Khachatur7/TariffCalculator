@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TariffCalculator/static/css/main.4db6df34.css",
+    "main.js": "/TariffCalculator/static/js/main.0e1ba26d.js",
+    "index.html": "/TariffCalculator/index.html",
+    "main.4db6df34.css.map": "/TariffCalculator/static/css/main.4db6df34.css.map",
+    "main.0e1ba26d.js.map": "/TariffCalculator/static/js/main.0e1ba26d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db6df34.css",
+    "static/js/main.0e1ba26d.js"
+  ]
+}
